@@ -1,0 +1,22 @@
+
+
+.navbar .nav-item:hover .nav-link{
+	background-color: #ccc;
+	color: #000;
+	border-radius: 15px;
+}
+body {
+  	font-family: Helvetica, Arial, sans-serif;
+}
+
+.bg-custom {
+	background-color: #ffffff;
+}
+
+.navbar {
+		position: fixed;
+		top: 0;
+		left: 0;
+		right: 0;
+		z-index: 999;
+	}
